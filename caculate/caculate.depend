@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430534155 source:e:\program\c++\caculate\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

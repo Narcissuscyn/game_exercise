@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1423466272 source:g:\编程记录\compusmap\main.cpp
+	<iostream>
+	"map.h"
+
+1423464771 g:\编程记录\compusmap\map.h
+	<string>
+	<iostream>
+
+1423466272 source:g:\编程记录\compusmap\map.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"map.h"
+	<queue>
+
+1423745834 source:g:\编程记录\c++\compusmap\map.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"map.h"
+	<queue>
+
+1423745523 g:\编程记录\c++\compusmap\map.h
+	<string>
+	<iostream>
+
+1423729301 source:g:\编程记录\c++\compusmap\main.cpp
+	<iostream>
+	"map.h"
+
+1423729301 source:e:\编程记录\c++\compusmap\main.cpp
+	<iostream>
+	"map.h"
+
+1423745523 e:\编程记录\c++\compusmap\map.h
+	<string>
+	<iostream>
+
+1423745834 source:e:\编程记录\c++\compusmap\map.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"map.h"
+	<queue>
+
+1430312017 source:e:\program\c++\compusmap\main.cpp
+	<iostream>
+	"map.h"
+
+1430310056 e:\program\c++\compusmap\map.h
+	<string>
+	<iostream>
+
+1430312017 source:e:\program\c++\compusmap\map.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"map.h"
+	<queue>
+

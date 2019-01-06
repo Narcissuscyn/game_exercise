@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1422347255 source:g:\编程记录\平时练习\shudu\main.cpp
+	<iostream>
+	<iomanip>
+	"ShuDu.h"
+
+1422346596 source:g:\编程记录\平时练习\shudu\shudu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"ShuDu.h"
+
+1422347636 g:\编程记录\平时练习\shudu\shudu.h
+
+1422967034 source:g:\编程记录\shudu\main.cpp
+	<iostream>
+	<iomanip>
+	"ShuDu.h"
+
+1422967034 g:\编程记录\shudu\shudu.h
+
+1422967034 source:g:\编程记录\shudu\shudu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"ShuDu.h"
+
+1422967034 source:g:\编程记录\c++\shudu\main.cpp
+	<iostream>
+	<iomanip>
+	"ShuDu.h"
+
+1422967034 g:\编程记录\c++\shudu\shudu.h
+
+1422967034 source:g:\编程记录\c++\shudu\shudu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"ShuDu.h"
+

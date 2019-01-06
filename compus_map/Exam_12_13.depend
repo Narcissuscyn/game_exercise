@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1419388211 source:e:\projects\exam_12_13\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<sstream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	"view1.h"
+
+1419387752 source:e:\projects\exam_12_13\view1.cpp
+	"iostream"
+	"cmath"
+	"View.h"
+	"string"
+
+1419343338 e:\projects\exam_12_13\view.h
+	"string"
+
+1419387752 e:\projects\exam_12_13\view1.h
+	"string"
+
+1419388212 source:i:\exam_12_13\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<sstream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	"view1.h"
+
+1419387754 i:\exam_12_13\view1.h
+	"string"
+
+1419387754 source:i:\exam_12_13\view1.cpp
+	"iostream"
+	"cmath"
+	"View.h"
+	"string"
+

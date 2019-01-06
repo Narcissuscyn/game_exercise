@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1425531896 source:e:\编程记录\c++\game2048\main.cpp
+	<iostream>
+	"Game.h"
+
+1425618315 source:e:\编程记录\c++\game2048\game.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	"Game.h"
+
+1425618664 e:\编程记录\c++\game2048\game.h
+
+1425531896 source:e:\program\c++\game2048\main.cpp
+	<iostream>
+	"Game.h"
+
+1425618664 e:\program\c++\game2048\game.h
+
+1426313359 source:e:\program\c++\game2048\game.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	"Game.h"
+	<stdio.h>
+

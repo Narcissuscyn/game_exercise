@@ -1,0 +1,8 @@
+<Projects version="2.0">
+	<Project active="1">GoBang.cfp</Project>
+	<File active="0">main.cpp</File>
+	<File active="1">..\program\c++\GoBang\GoBang.h</File>
+	<File active="0">..\program\c++\GoBang\Board.cpp</File>
+	<File active="0">..\program\c++\GoBang\Man.cpp</File>
+	<File active="0">..\program\c++\GoBang\Display.cpp</File>
+</Projects>

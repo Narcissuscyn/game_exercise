@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1426324773 source:e:\program\c++\gobang\board.cpp
+	<iostream>
+	<iomanip>
+	"GoBang.h"
+
+1426323623 e:\program\c++\gobang\gobang.h
+	<string>
+	<iostream>
+
+1426243747 source:e:\program\c++\gobang\gobang.cpp
+
+1426323477 source:e:\program\c++\gobang\main.cpp
+	<iostream>
+	"GoBang.h"
+
+1426253988 source:e:\program\c++\gobang\man.cpp
+	<iostream>
+	<iomanip>
+	"GoBang.h"
+

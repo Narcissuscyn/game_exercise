@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1398321496 source:c:\云盘同步文件夹\程序\c++练习\图的练习\magiccube\main.cpp
+	<iostream>
+	"MagicCube.h"
+
+1398576583 c:\云盘同步文件夹\程序\c++练习\图的练习\magiccube\magiccube.h
+	<iostream>
+
+1398321496 source:c:\users\administrator\desktop\magiccube\main.cpp
+	<iostream>
+	"MagicCube.h"
+
+1398576583 c:\users\administrator\desktop\magiccube\magiccube.h
+	<iostream>
+
